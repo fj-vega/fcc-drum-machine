@@ -1,0 +1,33 @@
+:root {
+  --primary-color: #3500D3;
+  --secondary-color: #240090; 
+  --tertiary-color: #190061;
+  --bg-body-color: #726698;
+  --bg-body-color-light: #8C80B2;
+  --bg-drum-machine-color: #282828;
+  --text-color: #fff;
+  --text-color-dark: #eee;
+  --vol-slider-color: #808080;
+  --vol-icon-color: #BBB;
+  --react-brand-color: #00D8FF;
+}
+
+html { font-size: 10px; }
+
+body {
+  box-sizing: border-box;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--bg-body-color);
+}
+
+*,
+*:before,
+*:after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
