@@ -2,7 +2,7 @@
 
 ## This is a project for a freecodecamp challenge from the Front End section
 
-The project was create using React.
+The project was created using React.
 
 ### Instructions
 
